@@ -1,0 +1,16 @@
+.fondo imagen{
+    background-image: url("../cac-integrador-front-2022c1/img/ba1.jpg");
+}
+
+.centrado{
+    text-align: center;
+}
+
+.alineacion{
+    height:600px;
+    width:800px
+}
+
+.blanco{
+    color:snow;
+}
