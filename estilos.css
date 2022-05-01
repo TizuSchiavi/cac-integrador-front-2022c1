@@ -1,16 +1,54 @@
-.fondo imagen{
-    background-image: url("../cac-integrador-front-2022c1/img/ba1.jpg");
+.logo{
+    width:30%
+}
+
+
+.fondo-imagen{
+    background-image:url(../cac-integrador-front-2022c1/img/ba1.jpg);
+    filter: brightness(10%);
+    filter:contrast(70%);
+    
 }
 
 .centrado{
     text-align: center;
 }
 
-.alineacion{
-    height:600px;
-    width:800px
-}
+
 
 .blanco{
     color:snow;
+}
+
+.texto-derecha{
+    margin-top: 30%;
+    margin-bottom: 15%;
+    margin-left: -10%;
+    text-align: right;
+}
+
+.mayor-tamaño{
+    background-size: 100% 100%;
+}
+
+.bloque-derecha{
+    width: 100%;
+    height: auto;
+    
+}
+
+.texto-s{
+    font-size: 50%;
+}
+
+.nav-final{
+    text-align: left;
+    margin-left: -9%;
+    margin-right: -9%;
+
+}
+
+.honolulu{
+    width: 100%;
+    height: auto;
 }
