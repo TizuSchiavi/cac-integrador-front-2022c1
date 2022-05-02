@@ -2,29 +2,44 @@
     width:30%
 }
 
+.conf{
+    margin-left: -520%;
+}
 
 .fondo-imagen{
     background-image:url(../cac-integrador-front-2022c1/img/ba1.jpg);
-    filter: brightness(10%);
-    filter:contrast(70%);
-    
+    filter:brightness(50%)    
 }
 
 .centrado{
     text-align: center;
 }
 
-
-
 .blanco{
     color:snow;
 }
 
-.texto-derecha{
-    margin-top: 30%;
-    margin-bottom: 15%;
+.gris{
+    color: darkgray;
+}
+
+.verde{
+    color:green;
+}
+
+.primer-texto{
+    color: aliceblue;
+    filter: brightness(150%);
+    text-align:right;
+    margin-top: 20%;
     margin-left: -10%;
-    text-align: right;
+    margin-bottom: 10%;
+
+}
+
+.texto-derecha{
+    margin-bottom: 20%;
+    text-align: left;
 }
 
 .mayor-tamaño{
@@ -33,22 +48,26 @@
 
 .bloque-derecha{
     width: 100%;
-    height: auto;
+    height: 50%;
     
 }
 
+.btn-mini{
+    margin-right: 80%;
+    
+    margin-top: -15%;
+}
 .texto-s{
     font-size: 50%;
 }
 
 .nav-final{
-    text-align: left;
     margin-left: -9%;
-    margin-right: -9%;
-
+    width: 117%;
+    background-color: darkblue;
 }
 
 .honolulu{
-    width: 100%;
-    height: auto;
+    width: 110%;
+    height: 100%;
 }
